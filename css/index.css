@@ -31,3 +31,13 @@ main {
 .cidade:houver {
   background-color: #ccc;
 }
+
+#previsao {
+margin-top: 1rem;;
+}
+
+.dia{
+  padding: 0.625rem;
+  border: 1px solid#ccc;
+  
+}
